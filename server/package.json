@@ -4,6 +4,10 @@
   "description": "StockFlow - Sales and Inventory Tracking Backend",
   "main": "server.js",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blanco92i/stockflow.git"
+  },
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
